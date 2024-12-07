@@ -65,9 +65,9 @@ document.addEventListener('DOMContentLoaded', function () {
             { name: "Ngữ Pháp Trọn Đời Toeic NgoaiNgu24h", status: "25.000 Đồng", kind: "Nhận ngay", img: "images/toeic/nguphap.png" },
             { name: "Xóa Mù Toeic Cô Mai Phương", status: "25.000 Đồng", kind: "Nhận ngay", img: "images/toeic/xoamu.png" },
             { name: "Toeic Writing + Speaking Cô Mai Phương", status: "Tặng kèm", kind: "Nhận ngay", img: "images/toeic/toeiccomp.png" },
-            { name: "[Toeic Prep] nền tảng 0-300+", status: "30.000 Đồng", kind: "Nhận ngay", img: "images/toeic/prep300.jpg" },
-            { name: "[Toeic Prep] trung cấp 300-600+", status: "30.000 Đồng", kind: "Nhận ngay", img: "images/toeic/prep600.jpg" },
-            { name: "[Toeic Prep] nâng cao 600-800+", status: "30.000 Đồng", kind: "Nhận ngay", img: "images/toeic/prep800.jpg" },
+            { name: "Toeic Prep nền tảng 0-300+", status: "30.000 Đồng", kind: "Nhận ngay", img: "images/toeic/prep300.jpg" },
+            { name: "Toeic Prep trung cấp 300-600+", status: "30.000 Đồng", kind: "Nhận ngay", img: "images/toeic/prep600.jpg" },
+            { name: "Toeic Prep nâng cao 600-800+", status: "30.000 Đồng", kind: "Nhận ngay", img: "images/toeic/prep800.jpg" },
             { name: "Khóa học Chinh Phục Kỳ Thi Toeic Unica", "status": "30.000 Đồng", "kind": "Nhận ngay", "img": "images/unica/toeic.jpg"},
             { name: "Combo 28tech", "status": "119.000 Đồng", "kind": "Nhận ngay", "img": "images/combo/28tech.jpg" },
             { name: "Combo Unica", "status": "99.000 Đồng", "kind": "Nhận ngay", "img": "images/combo/unica.jpg" },
@@ -75,7 +75,8 @@ document.addEventListener('DOMContentLoaded', function () {
             { name: "Combo Toeic Cô Mai Phương", "status": "50.000 Đồng", "kind": "Nhận ngay", "img": "images/combo/toeic.jpg" },
             { name: "Combo Toeic Prep", "status": "50.000 Đồng", "kind": "Nhận ngay", "img": "images/combo/prep.png" },
             { name: "Combo Cybersoft", "status": "99.000 Đồng", "kind": "Nhận ngay", "img": "images/combo/cybersoft.jpg" },
-            { name: "Combo Dũng Lại Lập Trình", "status": "99.000 Đồng", "kind": "Nhận ngay", "img": "images/combo/dllt.jpg" }
+            { name: "Combo Dũng Lại Lập Trình", "status": "99.000 Đồng", "kind": "Nhận ngay", "img": "images/combo/dllt.jpg" },
+            { name: "Java Spring RESTful APIs - Xây Dựng Backend với Spring Boot Hỏi Dân IT", "status": "40.000 Đồng", "kind": "Nhận ngay", "img": "images/hoidanit/springapi.jpg" }
               
               
           
