@@ -75,8 +75,10 @@ document.addEventListener('DOMContentLoaded', function () {
             { name: "Combo Toeic Cô Mai Phương", "status": "50.000 Đồng", "kind": "Nhận ngay", "img": "images/combo/toeic.jpg" },
             { name: "Combo Toeic Prep", "status": "50.000 Đồng", "kind": "Nhận ngay", "img": "images/combo/prep.png" },
             { name: "Combo Cybersoft", "status": "99.000 Đồng", "kind": "Nhận ngay", "img": "images/combo/cybersoft.jpg" },
+            { name: "Combo Hỏi Dân IT", "status": "99.000 Đồng", "kind": "Nhận ngay", "img": "images/combo/hoidanit.jpg" },
             { name: "Combo Dũng Lại Lập Trình", "status": "99.000 Đồng", "kind": "Nhận ngay", "img": "images/combo/dllt.jpg" },
-            { name: "Java Spring RESTful APIs - Xây Dựng Backend với Spring Boot Hỏi Dân IT", "status": "40.000 Đồng", "kind": "Nhận ngay", "img": "images/hoidanit/springapi.jpg" }
+            { name: "Java Spring RESTful APIs - Xây Dựng Backend với Spring Boot Hỏi Dân IT", "status": "40.000 Đồng", "kind": "Nhận ngay", "img": "images/hoidanit/springapi.jpg" },
+            { name: "Java Spring MVC Ultimate for Beginners - Hỏi Dân IT", "status": "40.000 Đồng", "kind": "Nhận ngay", "img": "images/hoidanit/springmvc.jpg" }
               
               
           
