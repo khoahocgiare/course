@@ -70,7 +70,6 @@ document.addEventListener('DOMContentLoaded', function () {
             { name: "Toeic Prep nâng cao 600-800+", status: "30.000 Đồng", kind: "Nhận ngay", img: "images/toeic/prep800.jpg" },
             { name: "Khóa học Chinh Phục Kỳ Thi Toeic Unica", "status": "30.000 Đồng", "kind": "Nhận ngay", "img": "images/unica/toeic.jpg"},
             { name: "Combo 28tech", "status": "119.000 Đồng", "kind": "Nhận ngay", "img": "images/combo/28tech.jpg" },
-            { name: "Combo Unica", "status": "99.000 Đồng", "kind": "Nhận ngay", "img": "images/combo/unica.jpg" },
             { name: "Combo Udemy", "status": "99.000 Đồng", "kind": "Nhận ngay", "img": "images/combo/udemy.png" },
             { name: "Combo Toeic Cô Mai Phương", "status": "50.000 Đồng", "kind": "Nhận ngay", "img": "images/combo/toeic.jpg" },
             { name: "Combo Toeic Prep", "status": "50.000 Đồng", "kind": "Nhận ngay", "img": "images/combo/prep.png" },
