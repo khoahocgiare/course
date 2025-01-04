@@ -87,7 +87,8 @@ document.addEventListener('DOMContentLoaded', function () {
             { name: "Backend RESTFul Server với Node.JS và Express (SQL/MongoDB) - Hỏi Dân IT", "status": "40.000 Đồng", "kind": "Nhận ngay", "img": "images/hoidanit/benodejs.jpg" },
             { name: "Hỏi Dân IT – React Native Ultimate: Phát Triển Ứng Dụng Mobile - Hỏi Dân IT", "status": "40.000 Đồng", "kind": "Nhận ngay", "img": "images/hoidanit/reactnativemobile.jpg" },
             { name: "Kỹ Thuật Debugs Với Lập Trình FullStack Website - Hỏi Dân IT", "status": "40.000 Đồng", "kind": "Nhận ngay", "img": "images/hoidanit/debug.jpg" },
-            { name: "Nest.JS Zero - Xây Dựng Backend Node.JS Chuyên Nghiệp - Hỏi Dân IT", "status": "40.000 Đồng", "kind": "Nhận ngay", "img": "images/hoidanit/nestJs_Zero.jpg" }
+            { name: "Nest.JS Zero - Xây Dựng Backend Node.JS Chuyên Nghiệp - Hỏi Dân IT", "status": "40.000 Đồng", "kind": "Nhận ngay", "img": "images/hoidanit/nestJs_Zero.jpg" },
+            { name: "Combo Khóa học Data Analyst Bootcamp 200Lab", "status": "40.000 Đồng", "kind": "Nhận ngay", "img": "images/200lab/200lab.png" }
             
 
             
