@@ -30,10 +30,7 @@ document.addEventListener('DOMContentLoaded', function () {
             { name: 'Khóa Học Nhập môn SQL với MySQL', status: '40.000 Đồng', kind: 'Nhận ngay', img: 'images/udemy/sql.jpg' },
             { name: 'Lập trình Python từ cơ bản đến nâng cao thông qua các dự án học máy', status: '40.000 Đồng', kind: 'Nhận ngay', img: 'images/udemy/python.jpg' },
             { name: 'Viết ứng dụng với Java Springboot/API và Angular', status: '40.000 Đồng', kind: 'Nhận ngay', img: 'images/udemy/javashop.jpg' },
-            { name: 'Backend RESTFul Server với Node.JS và Express SQLMongoDB (Hỏi dân IT)', status: '40.000 Đồng', kind: 'Nhận ngay', img: 'images/udemy/benodejs.jpg' },
-            { name: 'React Pro TypeScript - Thực Hành Dự Án Portfolio (Hỏi Dân IT)', status: '40.000 Đồng', kind: 'Nhận ngay', img: 'images/udemy/reactpro.jpg' },
-            { name: 'React Ultimate - React.JS Cơ Bản Từ Z Đến A Cho Beginners (Hỏi Dân IT)', status: '40.000 Đồng', kind: 'Nhận ngay', img: 'images/udemy/reactultimate.jpg' },
-            { name: 'Kỹ Thuật Debugs Với Lập Trình FullStack Website (Hỏi Dân IT)', status: '30.000 Đồng', kind: 'Nhận ngay', img: 'images/udemy/debug.jpg' },
+     
             { name: 'Làm chủ hệ điều hành Linux từ cơ bản đến nâng cao', status: '40.000 Đồng', kind: 'Nhận ngay', img: 'images/udemy/linux.jpg' },
             { name: 'Khóa Học Nhập Môn Lập Trình IOS Swift', status: '30.000 Đồng', kind: 'Nhận ngay', img: 'images/udemy/ios.jpg' },
             { name: "Khóa học C/C++ Vũ Nguyễn Coder", "status": "40.000 Đồng", "kind": "Nhận ngay", "img": "images/unica/vunguyencpp.jpg"},
@@ -51,9 +48,7 @@ document.addEventListener('DOMContentLoaded', function () {
             { name: "Combo 6 khóa: Lập trình Front End VueJS (Cybersoft)", status: "40.000 Đồng", kind: "Nhận ngay", img: "images/cybersoft/vue.jpg" },
             { name: "Combo 10 khóa lập trình Front End Foundation Cybersoft", status: "40.000 Đồng", kind: "Nhận ngay", img: "images/cybersoft/frontend.png" },
             { name: "Combo 5 Khóa Lập Trình FrontEnd Master ReactJS (Cybersoft)", status: "40.000 Đồng", kind: "Nhận ngay", img: "images/cybersoft/react.jpg" },
-            { name: "Lập trình animation với Javascript và SVG (Edumall)", status: "30.000 Đồng", kind: "Nhận ngay", img: "images/cybersoft/svg.png" },
-            { name: "Khóa học Lập trình PHP từ cơ bản đến nâng cao (Edumall)", status: "30.000 Đồng", kind: "Nhận ngay", img: "images/cybersoft/php.jpg" },
-            { name: "Khóa học Lập trình VueJS (Zendvn)", status: "30.000 Đồng", kind: "Nhận ngay", img: "images/cybersoft/vuejs_zendvn.png" },
+           
             { name: "AI - Trí tuệ nhân tạo (Dũng Lại Lập Trình)", status: "40.000 Đồng", kind: "Nhận ngay", img: "images/dllt/ai.jpg" },
             { name: "Khóa học python từ cơ bản tới nâng cao (Dũng Lại Lập Trình)", status: "40.000 Đồng", kind: "Nhận ngay", img: "images/dllt/python.jpg" },
             { name: "Khóa Logic Math - Tư Duy Toán Cơ Bản (Dũng Lại Lập Trình)", status: "40.000 Đồng", kind: "Nhận ngay", img: "images/dllt/logicmath.jpeg" },
@@ -79,10 +74,25 @@ document.addEventListener('DOMContentLoaded', function () {
             { name: "Combo Toeic Cô Mai Phương", "status": "50.000 Đồng", "kind": "Nhận ngay", "img": "images/combo/toeic.jpg" },
             { name: "Combo Toeic Prep", "status": "50.000 Đồng", "kind": "Nhận ngay", "img": "images/combo/prep.png" },
             { name: "Combo Cybersoft", "status": "99.000 Đồng", "kind": "Nhận ngay", "img": "images/combo/cybersoft.jpg" },
-            { name: "Combo Hỏi Dân IT", "status": "99.000 Đồng", "kind": "Nhận ngay", "img": "images/combo/hoidanit.jpg" },
+            { name: "Combo Hỏi Dân IT", "status": "119.000 Đồng", "kind": "Nhận ngay", "img": "images/combo/hoidanit.jpg" },
             { name: "Combo Dũng Lại Lập Trình", "status": "99.000 Đồng", "kind": "Nhận ngay", "img": "images/combo/dllt.jpg" },
             { name: "Java Spring RESTful APIs - Xây Dựng Backend với Spring Boot Hỏi Dân IT", "status": "40.000 Đồng", "kind": "Nhận ngay", "img": "images/hoidanit/springapi.jpg" },
-            { name: "Java Spring MVC Ultimate for Beginners - Hỏi Dân IT", "status": "40.000 Đồng", "kind": "Nhận ngay", "img": "images/hoidanit/springmvc.jpg" }
+            { name: "Java Spring MVC Ultimate for Beginners - Hỏi Dân IT", "status": "40.000 Đồng", "kind": "Nhận ngay", "img": "images/hoidanit/springmvc.jpg" },
+            { name: "Ultimate Guide To Deploy ReactNode.JS - Hỏi Dân IT", "status": "40.000 Đồng", "kind": "Nhận ngay", "img": "images/hoidanit/deploy.png" },
+            { name: "React.js Thực Chiến - Luyện Tập Bài Test Fresher React - Hỏi Dân IT", "status": "40.000 Đồng", "kind": "Nhận ngay", "img": "images/hoidanit/react_thucchien.jpg" },
+            { name: "React Ultimate - React.JS Cơ Bản Từ Z Đến A Cho Beginners - Hỏi Dân IT", "status": "40.000 Đồng", "kind": "Nhận ngay", "img": "images/hoidanit/reactultimate.jpg" },
+            { name: "React State Manager - Redux Toolkit, React Query, Redux Saga - Hỏi Dân IT", "status": "40.000 Đồng", "kind": "Nhận ngay", "img": "images/hoidanit/reactstate.jpg" },
+            { name: "React Pro TypeScript - Thực Hành Dự Án Portfolio", "status - Hỏi Dân IT": "40.000 Đồng", "kind": "Nhận ngay", "img": "images/hoidanit/reactpro.jpg" },
+            { name: "React Pro Max với Next.JS - Làm Chủ React.JS Hiện Đại - Hỏi Dân IT", "status": "40.000 Đồng", "kind": "Nhận ngay", "img": "images/hoidanit/nextjspromax.jpg" },
+            { name: "Backend RESTFul Server với Node.JS và Express (SQL/MongoDB) - Hỏi Dân IT", "status": "40.000 Đồng", "kind": "Nhận ngay", "img": "images/hoidanit/benodejs.jpg" },
+            { name: "Hỏi Dân IT – React Native Ultimate: Phát Triển Ứng Dụng Mobile - Hỏi Dân IT", "status": "40.000 Đồng", "kind": "Nhận ngay", "img": "images/hoidanit/reactnativemobile.jpg" },
+            { name: "Kỹ Thuật Debugs Với Lập Trình FullStack Website - Hỏi Dân IT", "status": "40.000 Đồng", "kind": "Nhận ngay", "img": "images/hoidanit/debug.jpg" },
+            { name: "Nest.JS Zero - Xây Dựng Backend Node.JS Chuyên Nghiệp - Hỏi Dân IT", "status": "40.000 Đồng", "kind": "Nhận ngay", "img": "images/hoidanit/nestJs_Zero.jpg" }
+            
+
+            
+
+
               
               
           
