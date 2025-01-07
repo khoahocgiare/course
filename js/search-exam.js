@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', function () {
             { name: "Combo 6 khóa: Lập trình Front End VueJS (Cybersoft)", status: "40.000 Đồng", kind: "Nhận ngay", img: "images/cybersoft/vue.jpg" },
             { name: "Combo 10 khóa lập trình Front End Foundation Cybersoft", status: "40.000 Đồng", kind: "Nhận ngay", img: "images/cybersoft/frontend.png" },
             { name: "Combo 5 Khóa Lập Trình FrontEnd Master ReactJS (Cybersoft)", status: "40.000 Đồng", kind: "Nhận ngay", img: "images/cybersoft/react.jpg" },
-           
+            { name: "Lập Trình Hướng Đối Tượng Với Ngôn Ngữ Java (OOP Java)", status: "40.000 Đồng", kind: "Nhận ngay", img: "images/cybersoft/oop.jpg" },
             { name: "AI - Trí tuệ nhân tạo (Dũng Lại Lập Trình)", status: "40.000 Đồng", kind: "Nhận ngay", img: "images/dllt/ai.jpg" },
             { name: "Khóa học python từ cơ bản tới nâng cao (Dũng Lại Lập Trình)", status: "40.000 Đồng", kind: "Nhận ngay", img: "images/dllt/python.jpg" },
             { name: "Khóa Logic Math - Tư Duy Toán Cơ Bản (Dũng Lại Lập Trình)", status: "40.000 Đồng", kind: "Nhận ngay", img: "images/dllt/logicmath.jpeg" },
